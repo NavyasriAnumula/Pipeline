@@ -6,8 +6,9 @@ python-dotenv
 openai
 fuzzywuzzy
 python-Levenshtein
-langchain
+
 langchain-community
+langchain==0.0.350
 langchain-openai
 langchain-core
 tiktoken
