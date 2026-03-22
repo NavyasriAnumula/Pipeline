@@ -8,7 +8,7 @@ fuzzywuzzy
 python-Levenshtein
 
 langchain-community
-langchain==0.0.350
+langchain
 langchain-openai
 langchain-core
 tiktoken
