@@ -1,0 +1,16 @@
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+python-dotenv
+openai
+requests
+langchain
+langchain-community
+langchain-openai
+langchain-core
+tiktoken
+pydantic
+python-dateutil
+pytz
+tqdm
