@@ -24,8 +24,6 @@ RapidFuzz
 mistralai
 neo4j
 sentence-transformers
-transformers
-torch
 scipy
 scikit-learn
 nltk
